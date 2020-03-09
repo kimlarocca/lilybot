@@ -138,10 +138,13 @@ a.button:hover {
   position: absolute;
   bottom: 0;
   left: -185px;
-  width: 230px;
-  height: 264px;
+  /*width: 230px;*/
+  /*height: 264px;*/
+  height: 263px;
+  width: 214px;
   z-index: 10;
   background: url("https://biglittleadventures.s3.amazonaws.com/lily.png") bottom left no-repeat;
+  /*background: url("https://biglittleadventures.s3.amazonaws.com/zoe.png") bottom left no-repeat;*/
 }
 #message_window .disconnected {
   background: #c2b0c9;

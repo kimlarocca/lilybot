@@ -15,7 +15,8 @@ module.exports = function (controller) {
         // do something?
     }, 'name');
 
-    nameConvo.say('Hi, {{vars.name}}!');
+    // nameConvo.say('What do you like to color in {{vars.name}}');
+    nameConvo.say('It\'s nice to meet you {{vars.name}}!');
 
     controller.addDialog(nameConvo);
 

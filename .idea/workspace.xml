@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3e845ce-c7e3-4801-9420-d9f3b585d9ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/features/conversations.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/conversations.js" beforeDir="false" afterPath="$PROJECT_DIR$/features/conversations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/sample_echo.js" beforeDir="false" afterPath="$PROJECT_DIR$/features/sample_echo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,12 @@
       <updated>1578493656199</updated>
       <workItem from="1578493657878" duration="2608000" />
       <workItem from="1578497724700" duration="353000" />
-      <workItem from="1578499184280" duration="2588000" />
+      <workItem from="1578499184280" duration="4435000" />
+      <workItem from="1579204369980" duration="269000" />
+      <workItem from="1579290475396" duration="1580000" />
+      <workItem from="1579296235452" duration="12000" />
+      <workItem from="1579892256217" duration="647000" />
+      <workItem from="1579893863643" duration="1634000" />
     </task>
     <servers />
   </component>
@@ -75,14 +82,19 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1062" y="-1295" width="1249" height="968" key="dock-window-1" timestamp="1578501000807">
+    <state x="1061" y="-1417" width="1720" height="1417" key="dock-window-1" timestamp="1578502091832">
       <screen x="-659" y="-1417" width="3440" height="1417" />
     </state>
     <state x="1061" y="-1417" width="1720" height="1417" key="dock-window-1/0.23.1440.827/-659.-1417.3440.1417@-659.-1417.3440.1417" timestamp="1578495902469" />
-    <state x="1062" y="-1295" width="1249" height="968" key="dock-window-1/0.23.1440.828/-659.-1417.3440.1417@-659.-1417.3440.1417" timestamp="1578501000807" />
-    <state x="-128" y="-963" width="657" height="508" key="find.popup" timestamp="1578499824682">
+    <state x="1061" y="-1417" width="1720" height="1417" key="dock-window-1/0.23.1440.828/-659.-1417.3440.1417@-659.-1417.3440.1417" timestamp="1578502091832" />
+    <state x="1061" y="-1417" width="1720" height="1417" key="dock-window-2" timestamp="1578503364651">
       <screen x="-659" y="-1417" width="3440" height="1417" />
     </state>
-    <state x="-128" y="-963" width="657" height="508" key="find.popup/0.23.1440.828/-659.-1417.3440.1417@-659.-1417.3440.1417" timestamp="1578499824682" />
+    <state x="1061" y="-1417" width="1720" height="1417" key="dock-window-2/0.23.1440.828/-659.-1417.3440.1417@-659.-1417.3440.1417" timestamp="1578503364651" />
+    <state x="222" y="288" width="703" height="518" key="find.popup" timestamp="1579892950038">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="222" y="288" width="703" height="518" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1579892950038" />
+    <state x="-128" y="-963" width="657" height="508" key="find.popup/0.23.1440.828/-659.-1417.3440.1417@-659.-1417.3440.1417" timestamp="1578502897041" />
   </component>
 </project>
